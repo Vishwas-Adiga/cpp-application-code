@@ -1,4 +1,4 @@
 language: cpp
 compiler:
   - gcc
-script: cpp-application-code/makefile.sh
+script: /makefile.sh
