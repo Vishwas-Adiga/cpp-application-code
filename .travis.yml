@@ -1,4 +1,4 @@
 language: cpp
 compiler:
   - gcc
-script: ./Tic-Tac-Toe/makefile.sh
+script: cpp-application-code/Tic-Tac-Toe/makefile.sh
